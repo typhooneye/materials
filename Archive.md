@@ -1,5 +1,8 @@
 Metarials
 =========
+
+I am an undergraduate majoring **ASTRONOMY**. Here are some metarials that I collected to help with my research or studying. Hope them also helpful to you.
+
 ## 1. Writing
 ### 1.1 General
 * [Effective Titles, Celia M. Elliott](http://people.physics.illinois.edu/Celia/Titles.pdf)<br>
@@ -28,8 +31,10 @@ The article concludes with a discussion of common mistakes and a framework for t
 ## 2. Coding
 * [What the f*ck Python! ](https://github.com/satwikkansal/wtfpython)
 This is a fun project to collect such tricky & counter-intuitive examples and lesser-known features in Python, attempting to discuss what exactly is happening under the hood!
-## 3. Mathematic
 
+## 3. Mathematic
+* [打开MCMC（马尔科夫蒙特卡洛）的黑盒子 - Pymc贝叶斯推理底层实现原理初探 ](https://www.cnblogs.com/LittleHann/p/9550757.html)
+* [Machine Learning-MIT](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
 ## 4. Lectures & Textbooks
 * [BOOK: How-to-Lie-with-Statistics](http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf)<br>
   * [Lessons on How to Lie with Statistics by Will Koehrsen](https://towardsdatascience.com/lessons-from-how-to-lie-with-statistics-57060c0d2f19)
