@@ -1,7 +1,7 @@
 Materials
 =========
 
-I am an undergraduate majoring **ASTRONOMY**. Here are some metarials that I collected to help with my research or studying. Hope them also helpful to you.
+I am an undergraduate majoring **ASTRONOMY**. Here are some materials that I collected to help with my research or studying. Hope them also helpful to you.
 
 ## 1. Writing
 ### 1.1 General
