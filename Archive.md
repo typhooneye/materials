@@ -39,7 +39,7 @@ This is a fun project to collect such tricky & counter-intuitive examples and le
 * [BOOK: How-to-Lie-with-Statistics](http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf)<br>
   * [Lessons on How to Lie with Statistics by Will Koehrsen](https://towardsdatascience.com/lessons-from-how-to-lie-with-statistics-57060c0d2f19)
 * [The Demographics of Exoplanets: Theory vs. Observations by Scott Gaudi](http://nexsci.caltech.edu/workshop/2015/talks/sagan_gaudi_2015_2.pdf)<br>
-* [Introduction to Data Science by Rafael A. Irizarry](https://rafalab.github.io/dsbook/)
+* [Introduction to Data Science by Rafael A. Irizarry](https://rafalab.github.io/dsbook/)<br>
 Data Analysis and Prediction Algorithms with R but also friendly to Python user.
 ## 5. Tools
 * free grammer checker
