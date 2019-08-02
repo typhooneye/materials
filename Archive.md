@@ -1,4 +1,4 @@
-Metarials
+Materials
 =========
 
 I am an undergraduate majoring **ASTRONOMY**. Here are some metarials that I collected to help with my research or studying. Hope them also helpful to you.
