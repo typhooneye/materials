@@ -29,7 +29,7 @@ How to write a literature review for the research proposal.
 * [《A Guide to Writing the Dissertation Literature Review》by Justus J. Randolph](https://pareonline.net/pdf/v14n13.pdf)<br>
 The article concludes with a discussion of common mistakes and a framework for the self-evaluation of a literature review.
 ## 2. Coding
-* [What the f*ck Python! ](https://github.com/satwikkansal/wtfpython)
+* [What the f*ck Python! ](https://github.com/satwikkansal/wtfpython)<br>
 This is a fun project to collect such tricky & counter-intuitive examples and lesser-known features in Python, attempting to discuss what exactly is happening under the hood!
 
 ## 3. Mathematic
@@ -54,4 +54,6 @@ Jupyter Notebook add-ons/extensions and a few jupyter commands that will enhance
 * [Mathpix: take screenshots of math equations and paste the extracted Latex](https://mathpix.com/)
 ## 6. Template
 * [AAS LATEX template](https://journals.aas.org/aastex-package-for-manuscript-preparation/)<br>
-
+## 7. Website
+* [Astrobetter:Tips and Tricks for Professional Astronomers](https://www.astrobetter.com/archives/)
+	* [presentation skills](http://www.astrobetter.com/wiki/Presentation+Skills)
