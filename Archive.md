@@ -31,6 +31,7 @@ The article concludes with a discussion of common mistakes and a framework for t
 ## 2. Coding
 * [What the f*ck Python! ](https://github.com/satwikkansal/wtfpython)<br>
 This is a fun project to collect such tricky & counter-intuitive examples and lesser-known features in Python, attempting to discuss what exactly is happening under the hood!
+* [动态变量名_python](https://blog.csdn.net/s740556472/article/details/80928849)
 
 ## 3. Mathematic
 * [打开MCMC（马尔科夫蒙特卡洛）的黑盒子 - Pymc贝叶斯推理底层实现原理初探 ](https://www.cnblogs.com/LittleHann/p/9550757.html)
