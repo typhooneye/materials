@@ -53,10 +53,11 @@ Data Analysis and Prediction Algorithms with R but also friendly to Python user.
 * [Supercharging Jupyter Notebooks](https://towardsdatascience.com/supercharging-jupyter-notebooks-e22f5ad7ca18)<br>
 Jupyter Notebook add-ons/extensions and a few jupyter commands that will enhance your Jupyter Notebooks and increase your productivity.
 * [Mathpix: take screenshots of math equations and paste the extracted Latex](https://mathpix.com/)
+* [Optimizing Jupyter Notebook: Tips, Tricks, and nbextensions](https://towardsdatascience.com/optimizing-jupyter-notebook-tips-tricks-and-nbextensions-26d75d502663)<br>
+Shortcuts\Magic Commands\nbextensions\Jupyter Notebook Theme
+
 ## 6. Template
 * [AAS LATEX template](https://journals.aas.org/aastex-package-for-manuscript-preparation/)<br>
 ## 7. Website
 * [Astrobetter:Tips and Tricks for Professional Astronomers](https://www.astrobetter.com/archives/)
 	* [presentation skills](http://www.astrobetter.com/wiki/Presentation+Skills)
-* [Optimizing Jupyter Notebook: Tips, Tricks, and nbextensions](https://towardsdatascience.com/optimizing-jupyter-notebook-tips-tricks-and-nbextensions-26d75d502663)<br>
-Shortcuts\Magic Commands\nbextensions\Jupyter Notebook Theme
