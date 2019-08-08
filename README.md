@@ -58,3 +58,5 @@ Jupyter Notebook add-ons/extensions and a few jupyter commands that will enhance
 ## 7. Website
 * [Astrobetter:Tips and Tricks for Professional Astronomers](https://www.astrobetter.com/archives/)
 	* [presentation skills](http://www.astrobetter.com/wiki/Presentation+Skills)
+* [Optimizing Jupyter Notebook: Tips, Tricks, and nbextensions](https://towardsdatascience.com/optimizing-jupyter-notebook-tips-tricks-and-nbextensions-26d75d502663)<br>
+Shortcuts\Magic Commands\nbextensions\Jupyter Notebook Theme
