@@ -42,6 +42,8 @@ This is a fun project to collect such tricky & counter-intuitive examples and le
 * [The Demographics of Exoplanets: Theory vs. Observations by Scott Gaudi](http://nexsci.caltech.edu/workshop/2015/talks/sagan_gaudi_2015_2.pdf)<br>
 * [Introduction to Data Science by Rafael A. Irizarry](https://rafalab.github.io/dsbook/)<br>
 Data Analysis and Prediction Algorithms with R but also friendly to Python user.
+* [Formation of planets by gravitational instability](http://isdc.unige.ch/sf2015/lectures/kley/kley_lect07.pdf)
+
 ## 5. Tools
 * free grammer checker
   * [1checker](http://www.1checker.com/Home/Index)
