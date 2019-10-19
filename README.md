@@ -57,6 +57,7 @@ Jupyter Notebook add-ons/extensions and a few jupyter commands that will enhance
 * [Mathpix: take screenshots of math equations and paste the extracted Latex](https://mathpix.com/)
 * [Optimizing Jupyter Notebook: Tips, Tricks, and nbextensions](https://towardsdatascience.com/optimizing-jupyter-notebook-tips-tricks-and-nbextensions-26d75d502663)<br>
 Shortcuts\Magic Commands\nbextensions\Jupyter Notebook Theme
+* [Astronomy Constant ](http://qxyang.lamost.org/uploads/science/astro_constants.pdf)
 
 ## 6. Template
 * [AAS LATEX template](https://journals.aas.org/aastex-package-for-manuscript-preparation/)<br>
