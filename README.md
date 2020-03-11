@@ -64,3 +64,5 @@ Shortcuts\Magic Commands\nbextensions\Jupyter Notebook Theme
 ## 7. Website
 * [Astrobetter:Tips and Tricks for Professional Astronomers](https://www.astrobetter.com/archives/)
 	* [presentation skills](http://www.astrobetter.com/wiki/Presentation+Skills)
+## 8. Guide for academic life:
+* [The Definitive ‘what do I ask/look for’ in a PhD Advisor Guide](https://www.cs.columbia.edu/wp-content/uploads/2019/03/Get-Advisor.pdf)
