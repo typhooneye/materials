@@ -21,6 +21,11 @@ Sciencetific writing formula
   * How do writers normally start the Introduction?<br>
   * What type of information should be in my Introduction, and in what order?<br>
   * How do writers normally end the Introduction?<br>
+  
+* [Article Writing in Astronomy](http://www.raa-journal.org/docs/RAA_Lectures/RAA_Lecture2.pdf)
+* [How to Create a Table for a Literature Review Summary](https://www.youtube.com/watch?v=d4jeDG0Cbvw)
+* [Researching the Literature Review](https://guides.library.oregonstate.edu/c.php?g=285832&p=1906021)
+
 ### 1.2 Literature Review
 * [ Academic Writing Workshop Series 1 2019_Seminar 2 lit reviews](https://egrs.jcu.edu.au/workshops/academic-and-thesis-writing-workshops-series-1-2019/atww-seminar-2-literature-reviews/view)<br>
 Steps to write a literature review.
