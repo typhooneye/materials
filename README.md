@@ -78,7 +78,8 @@ Shortcuts\Magic Commands\nbextensions\Jupyter Notebook Theme
 	* [presentation skills](http://www.astrobetter.com/wiki/Presentation+Skills)
 ## 8. Guide for academic life:
 * [The Definitive ‘what do I ask/look for’ in a PhD Advisor Guide](https://www.cs.columbia.edu/wp-content/uploads/2019/03/Get-Advisor.pdf)
-* [https://docs.google.com/document/d/1FAWHxGJcDSvh78aJf7yEnnIlwmLHMG9jjLB-nE1CLmA/edit?usp=sharing](https://docs.google.com/document/d/1FAWHxGJcDSvh78aJf7yEnnIlwmLHMG9jjLB-nE1CLmA/edit?usp=sharing)
+* [Possible (Astronomy) PhD(/Postdoc) interview questions
+](https://docs.google.com/document/d/1FAWHxGJcDSvh78aJf7yEnnIlwmLHMG9jjLB-nE1CLmA/edit?usp=sharing)
 * [Science's Working Life column (range of different stories and perspectives on scientific careers)](https://www.sciencemag.org/careers-career-article-genre/working-life)
 * [Nature's Career Column (similar to above)](https://www.nature.com/nature/articles?type=career-column)
 	* A recent article from the Working Life column mentioned above: [Science_WorkingLife_AdviceForGradSchool.pdf](https://canvas.uchicago.edu/courses/29402/files/3963396/download?wrap=1)
