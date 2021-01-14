@@ -3,8 +3,8 @@ Materials
 
 I am an undergraduate majoring **ASTRONOMY**. Here are some materials that I collected to help with my research or studying. Hope them also helpful to you.
 
-## 1. Writing
-### 1.1 General
+## 1. Writing & talking
+### 1.1 Writing
 * [Effective Titles, Celia M. Elliott](http://people.physics.illinois.edu/Celia/Titles.pdf)<br>
 "The title is a key element of any form of scientific communication. The quality and effectiveness of your title is critical in attracting a reader’s attention and in getting appropriate “hits” in electronic databases. Here, we focus on how to write a title for maximum effect."
 * [《The art of writing science》by Kevin W. Plaxco](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.514)<br>
@@ -25,14 +25,21 @@ Sciencetific writing formula
 * [Article Writing in Astronomy](http://www.raa-journal.org/docs/RAA_Lectures/RAA_Lecture2.pdf)
 * [How to Create a Table for a Literature Review Summary](https://www.youtube.com/watch?v=d4jeDG0Cbvw)
 * [Researching the Literature Review](https://guides.library.oregonstate.edu/c.php?g=285832&p=1906021)
+* [From an academic writing program at UChicago (primarily for social sciences, but many useful concepts here):LEADERSHIP LAB: The Craft of Writing Effectively (Links to an external site.)](https://youtu.be/vtIzMaLkCaM)
 
-### 1.2 Literature Review
+### 1.4 Talking
+
+* AGU's guidelines for how to give a great talk:
+[AGU_GuidelinesForTalks.pdf](https://canvas.uchicago.edu/courses/29402/files/4615847/download?wrap=1)
+
+### 1.3 Literature Review
 * [ Academic Writing Workshop Series 1 2019_Seminar 2 lit reviews](https://egrs.jcu.edu.au/workshops/academic-and-thesis-writing-workshops-series-1-2019/atww-seminar-2-literature-reviews/view)<br>
 Steps to write a literature review.
 * [Reviewing literature for the research proposal](https://lo.unisa.edu.au/mod/page/view.php?id=489316)<br>
 How to write a literature review for the research proposal.
 * [《A Guide to Writing the Dissertation Literature Review》by Justus J. Randolph](https://pareonline.net/pdf/v14n13.pdf)<br>
 The article concludes with a discussion of common mistakes and a framework for the self-evaluation of a literature review.
+
 ## 2. Coding
 * [What the f*ck Python! ](https://github.com/satwikkansal/wtfpython)<br>
 This is a fun project to collect such tricky & counter-intuitive examples and lesser-known features in Python, attempting to discuss what exactly is happening under the hood!
@@ -72,3 +79,10 @@ Shortcuts\Magic Commands\nbextensions\Jupyter Notebook Theme
 ## 8. Guide for academic life:
 * [The Definitive ‘what do I ask/look for’ in a PhD Advisor Guide](https://www.cs.columbia.edu/wp-content/uploads/2019/03/Get-Advisor.pdf)
 * [https://docs.google.com/document/d/1FAWHxGJcDSvh78aJf7yEnnIlwmLHMG9jjLB-nE1CLmA/edit?usp=sharing](https://docs.google.com/document/d/1FAWHxGJcDSvh78aJf7yEnnIlwmLHMG9jjLB-nE1CLmA/edit?usp=sharing)
+* [Science's Working Life column (range of different stories and perspectives on scientific careers)](https://www.sciencemag.org/careers-career-article-genre/working-life)
+* [Nature's Career Column (similar to above)](https://www.nature.com/nature/articles?type=career-column)
+	* A recent article from the Working Life column mentioned above: [Science_WorkingLife_AdviceForGradSchool.pdf](https://canvas.uchicago.edu/courses/29402/files/3963396/download?wrap=1)
+	* A recent article from the Career Column mentioned above:
+[Why comparing yourself to other graduate students is counter-productive](https://www.nature.com/articles/d41586-020-03040-7?WT.ec_id=NATURE-20201112&utm_source=nature_etoc&utm_medium=email&utm_campaign=20201112&sap-outbound-id=15414BC8973276DF4AA37605A21BEBC5213B7F55)
+
+
