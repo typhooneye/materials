@@ -71,3 +71,4 @@ Shortcuts\Magic Commands\nbextensions\Jupyter Notebook Theme
 	* [presentation skills](http://www.astrobetter.com/wiki/Presentation+Skills)
 ## 8. Guide for academic life:
 * [The Definitive ‘what do I ask/look for’ in a PhD Advisor Guide](https://www.cs.columbia.edu/wp-content/uploads/2019/03/Get-Advisor.pdf)
+* [https://docs.google.com/document/d/1FAWHxGJcDSvh78aJf7yEnnIlwmLHMG9jjLB-nE1CLmA/edit?usp=sharing](https://docs.google.com/document/d/1FAWHxGJcDSvh78aJf7yEnnIlwmLHMG9jjLB-nE1CLmA/edit?usp=sharing)
