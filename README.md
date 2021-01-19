@@ -3,7 +3,7 @@ Materials
 
 I am an undergraduate majoring **ASTRONOMY**. Here are some materials that I collected to help with my research or studying. Hope them also helpful to you.
 
-## 1. Writing & talking
+## 1. Writing & talk
 ### 1.1 Writing
 * [Effective Titles, Celia M. Elliott](http://people.physics.illinois.edu/Celia/Titles.pdf)<br>
 "The title is a key element of any form of scientific communication. The quality and effectiveness of your title is critical in attracting a reader’s attention and in getting appropriate “hits” in electronic databases. Here, we focus on how to write a title for maximum effect."
@@ -27,7 +27,7 @@ Sciencetific writing formula
 * [Researching the Literature Review](https://guides.library.oregonstate.edu/c.php?g=285832&p=1906021)
 * [From an academic writing program at UChicago (primarily for social sciences, but many useful concepts here):LEADERSHIP LAB: The Craft of Writing Effectively (Links to an external site.)](https://youtu.be/vtIzMaLkCaM)
 
-### 1.4 Talking
+### 1.4 Talk
 
 * AGU's guidelines for how to give a great talk:
 [AGU_GuidelinesForTalks.pdf](https://canvas.uchicago.edu/courses/29402/files/4615847/download?wrap=1)
