@@ -15,4 +15,8 @@ cbar.set_ticklabels( ('-100', '-80', '-60','-40','-20','0','20','40','60','80','
 plt.tight_layout()
 ```
 
+3. To make a pdf output more beautiful.
 
+```
+bbox_inches = 'tight'
+```
