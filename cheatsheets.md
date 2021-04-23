@@ -20,3 +20,8 @@ plt.tight_layout()
 ```
 bbox_inches = 'tight'
 ```
+4. Plot sequence
+
+```
+zorder = 10
+```
