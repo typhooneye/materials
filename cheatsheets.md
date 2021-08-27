@@ -25,3 +25,9 @@ bbox_inches = 'tight'
 ```
 zorder = 10
 ```
+
+5. Linux - check file/folder size under the current directory
+
+```
+du -sh *
+```
