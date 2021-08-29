@@ -26,6 +26,7 @@ Sciencetific writing formula
 * [How to Create a Table for a Literature Review Summary](https://www.youtube.com/watch?v=d4jeDG0Cbvw)
 * [Researching the Literature Review](https://guides.library.oregonstate.edu/c.php?g=285832&p=1906021)
 * [From an academic writing program at UChicago (primarily for social sciences, but many useful concepts here):LEADERSHIP LAB: The Craft of Writing Effectively (Links to an external site.)](https://youtu.be/vtIzMaLkCaM)
+* [Phrase Bank](https://www.phrasebank.manchester.ac.uk/)
 
 ### 1.4 Talk
 
