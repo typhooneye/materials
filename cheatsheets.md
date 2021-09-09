@@ -1,3 +1,5 @@
+### Python
+
 1. Set colorbar range and the ticks
 
 ```
@@ -26,8 +28,19 @@ bbox_inches = 'tight'
 zorder = 10
 ```
 
-5. Linux - check file/folder size under the current directory
+### Linux
+
+1. Linux - check file/folder size under the current directory
 
 ```
 du -sh *
+```
+
+### Midway
+1. open jupyter
+
+
+```
+/sbin/ip route get 8.8.8.8 | awk '{print $NF;exit}'
+jupyter-notebook --no-browser --ip=......
 ```
